@@ -4,7 +4,7 @@
 
 ## Overview
 
-CIFAR-10 VisionNet takes the CIFAR-10 dataset as input and uses a convolutional neural network to classify the images into one of the 10 predefined categories. The model is constructed from scratch and trained with several techniques aimed at improving performance and generalization. 
+CIFAR-10 Classifier takes the CIFAR-10 dataset as input and uses a convolutional neural network to classify the images into one of the 10 predefined categories. The model is constructed from scratch and trained with several techniques aimed at improving performance and generalization. 
 
 ### Features:
 - **Custom CNN Architecture**: The network is designed specifically for image classification tasks on the CIFAR-10 dataset. It utilizes convolutional layers, pooling layers, and dense layers to extract features and classify images.
