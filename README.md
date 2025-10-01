@@ -1,6 +1,6 @@
-# CIFAR-10 VisionNet - Convolutional Neural Network for Image Classification
+# CIFAR-10 Classifier - Convolutional Neural Network for Image Classification
 
-**CIFAR-10 VisionNet** is a custom Convolutional Neural Network (CNN) built from scratch using TensorFlow/Keras to classify images from the CIFAR-10 dataset. This dataset consists of 60,000 32x32 color images across 10 object categories, including airplanes, cats, cars, and more. The project focuses on creating a deep learning model capable of accurately recognizing and classifying images from the CIFAR-10 dataset using a custom CNN architecture.
+**CIFAR-10 Classifier** is a custom Convolutional Neural Network (CNN) built from scratch using TensorFlow/Keras to classify images from the CIFAR-10 dataset. This dataset consists of 60,000 32x32 color images across 10 object categories, including airplanes, cats, cars, and more. The project focuses on creating a deep learning model capable of accurately recognizing and classifying images from the CIFAR-10 dataset using a custom CNN architecture.
 
 ## Overview
 
